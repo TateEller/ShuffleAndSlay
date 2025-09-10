@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b63eb714e0fdac499d2246cf73ce22e, type: 3}
+  m_Name: Four_of_Clubs
+  m_EditorClassIdentifier: 
+  cardNum: 4
+  numSprite: {fileID: 824045129, guid: dacb7bb183669f641a4f4c0a4a3d2ea4, type: 3}
+  cardSuit: 0
+  suitSprite: {fileID: 630517902, guid: 22664e04d81f53844a3dee804780c978, type: 3}
+  cardBuff: 0
